@@ -1,0 +1,10 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃👋 Welcome to the AIST 2110 Codespace!                                       ┃
+┃ $ This is your Linux Terminal window, aka Console or Command Prompt.        ┃
+┃   Press [ Ctrl + ~ ] or [ Cmd + ~ ] to hide or show this window.            ┃
+┃📝 Above are your open text editor tabs.                                     ┃
+┃📂 By default, to the left is your file explorer panel. You can browse files ┃
+┃   your current project workspace. Create, open, and manage files from here. ┃
+┃⬱  The buttons far left control which panel is displayed. You'll be most     ┃
+┃   interested in the explorer and source control panels.                     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,16 @@
+[MASTER]
+ignore-paths=^.*/test/.*$,
+             ^.*/tests/.*
+ignore= i_am_human.py,
+        states.py
+
+[MESSAGES CONTROL]
+disable=C0114,C0115,C0116,R0903,R0913,R0914,R0915,C0304,C0305,W1309,C0303,C0103,R1716,R1722,W0702,E0401
+
+[REPORTS]
+output-format=text
+reports=no
+
+[DESIGN]
+max-args=10
+max-attributes=10
